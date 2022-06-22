@@ -1,2 +1,6 @@
 # Mobile-Architect-Programming
 Inventory App
+
+
+	This inventory app is useful for tracking a customizable list of items and their quantities in an easy to learn and intuitive way. This app uses large font and icons to help keep functionality clear and assist older users. Through a variety of basic and labeled buttons, this application features the ability to add a custom named inventory item, increase an item’s quantity by one, decrease an item’s quantity by one, edit an item’s name and quantity, and delete an item from the list. It also features the ability to track separate accounts through a login page. 
+	The initial process for making this app was creating its design and flow starting with a basic skeletal structure. Once I had a general idea of how the app would run, I designed a detailed plan for the UI and specific functionality for each page. For implementation, I also started with creating the UI, then added the functional code. Developer testing and debugging occurred throughout development and was also user tested toward the end of the project. Users tests were particularly enlightening since their way of thinking and using the app was quite different from my own. I have experienced in other projects as well, and it is an eye opening, valuable way to improve a given application. 
